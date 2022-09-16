@@ -29,7 +29,7 @@ GREEN = '\033[1;32m' #
 YELLOW = '\033[1;33m'
 BLUE = '\033[1;34m'
 ORANGE = '\033[1;35m'
-HBF = '{ AWM }'
+AWM = '{ AWM }'
 for xd in range(10000):
     a='Mozilla/5.0 (Linux; U; Android'
     b=random.choice(['6','7','8','9','10','11','12'])
